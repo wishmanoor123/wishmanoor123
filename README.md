@@ -5,16 +5,16 @@
 I enjoy turning ideas into real, responsive, and interactive websites.  
 Specializing in HTML, CSS, and JavaScript to create modern and user-friendly designs.  
 
-- 🔭 Currently working on:  Hoodie Landing Page 🧥  
-- 🌱 Learning: JavaScript animations  
-- 📌 Goal: To build beautiful, functional, and accessible websites  
-- ⚡ Fun fact: I can debug faster when I have chai ☕  
+- Currently working on:  Hoodie Landing Page  
+-  Learning: JavaScript animations  
+-  Goal: To build beautiful, functional, and accessible websites  
+- Fun fact: I can debug faster when I have chai ☕  
 
  🛠 Skills
 HTML | CSS | JavaScript | Bootstrap | TailwindCSS | Git | GitHub  
 
 
- 🛠 Skills
+ Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
