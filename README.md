@@ -22,3 +22,13 @@ HTML | CSS | JavaScript | Bootstrap | TailwindCSS | Git | GitHub
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+ 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wishmanoor&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wishmanoor&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wishmanoor&layout=compact&theme=radical)
