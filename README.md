@@ -11,7 +11,7 @@ Specializing in HTML, CSS, and JavaScript to create modern and user-friendly des
 - Fun fact: I can debug faster when I have chai ☕  
 
  🛠 Skills
-HTML | CSS | JavaScript | Bootstrap | TailwindCSS | Git | GitHub  
+HTML | CSS | JavaScript | React | TailwindCSS | Git | GitHub  
 
 
 
