@@ -5,10 +5,9 @@
 I enjoy turning ideas into **real, responsive, and interactive websites and applications**.  
 Specializing in **HTML, CSS, JavaScript, Tailwind, Bootstrap, and Laravel** to create modern and user-friendly designs.  
 
-- Currently working on: Hoodie Landing Page & Laravel Projects  
 - Learning: JavaScript animations, Laravel, and advanced database management  
 - Goal: To build **beautiful, functional, and accessible websites and web apps**  
-- Fun fact: I can debug faster when I have chai ☕  
+
 
 🛠 **Skills**  
 HTML | CSS | JavaScript | React | TailwindCSS | Bootstrap | Git | GitHub | Laravel | MySQL  
