@@ -1,4 +1,4 @@
- Hi, I'm Wishma Noor
+Hi, I'm Wishma Noor
 
 Web Developer | Creative UI Designer |  Always Learning  
 
