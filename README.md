@@ -1,11 +1,11 @@
-👋 Hi, I'm Wishma Noor
+ Hi, I'm Wishma Noor
 
-💻 Full-Stack Developer | 🎨 Creative UI Designer | 🚀 Always Learning  
+Web Developer | Creative UI Designer |  Always Learning  
 
 I enjoy turning ideas into **real, responsive, and interactive websites and applications**.  
 Specializing in **HTML, CSS, JavaScript, Tailwind, Bootstrap, and Laravel** to create modern and user-friendly designs.  
 
-- Learning: JavaScript animations, Laravel, and advanced database management  
+- Learning: JavaScript, Laravel, and advanced database management  
 - Goal: To build **beautiful, functional, and accessible websites and web apps**  
 
 
