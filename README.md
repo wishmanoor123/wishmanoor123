@@ -27,12 +27,12 @@ PHP | Laravel | HTML | CSS | JavaScript | React | TailwindCSS | Bootstrap | MySQ
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
+
 
 📊 **GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wishmanoor&show_icons=true&theme=radical&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wishmanoor123&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=wishmanoor&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wishmanoor&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wishmanoor123&layout=compact&theme=radical)
