@@ -31,8 +31,8 @@ PHP | Laravel | HTML | CSS | JavaScript | React | TailwindCSS | Bootstrap | MySQ
 
 📊 **GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wishmanoor123&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wishmanoor123&show_icons=true&theme=radical&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=wishmanoor&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wishmanoor123&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wishmanoor123&layout=compact&theme=radical&langs_count=8)
